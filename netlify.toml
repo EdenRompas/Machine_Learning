@@ -1,0 +1,4 @@
+[[functions]]
+  name = "my_function"
+  path = "netlify-functions/my_function.py"
+  runtime = "python3.8"
