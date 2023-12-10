@@ -1,5 +1,5 @@
- [functions]
-  external_node_modules = [
-    "module-one",
-    "module-two"
-  ]
+[functions]
+external_node_modules = [
+  "module-one",
+  "module-two"
+]
