@@ -1,4 +1,5 @@
-[[functions]]
-  name = "my_function"
-  path = "netlify-functions/my_function.py"
-  runtime = "python3.8"
+ [functions]
+  external_node_modules = [
+    "module-one",
+    "module-two"
+  ]
